@@ -1,0 +1,2 @@
+# Nexcord-
+Nexcord Premium

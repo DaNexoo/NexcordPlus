@@ -5,7 +5,7 @@
 > By using this tool, you accept full responsibility.
 
 > __Nexcord Plus__ is the __premium version__ of Nexcord, available for __€3.99 per month__.  
-> It unlocks __advanced features__, __extended customization options__, and __exclusive functionality__. Our __developer team__ actively delivers __updates__ and __bug fixes__ to ensure __continuous improvement__. __Premium members__ also receive a __special Discord role__, showing their status and standing out as part of the __core community__. More detailed information on the __Nexcord Plus GitHub WIKI__.
+> It unlocks __advanced features__, __extended customization options__, and __exclusive functionality__. Our __developer team__ actively delivers __updates__ and __bug fixes__ to ensure __continuous improvement__. __Premium members__ also receive a __special Discord role__, showing their status and standing out as part of the __core community__. More detailed information on the __Nexcord Plus [**GitHub WIKI**](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html).
 
 
 
@@ -42,13 +42,6 @@ Extract File
 Download the latest release (Nexcord.zip) and Extract The Executable
 Launch Program and Enjoy!
 ```
-## Nexcord Plus
-> Nexcord Plus is the premium version of Nexcord, available for €3.99 per month.
-> It unlocks advanced features, extended customization options, and exclusive functionality.
-> Our developer team actively delivers updates and bug fixes to ensure continuous
-> improvement. Premium members also receive a special Discord role, showing their status
-> and standing out as part of the core community.
-> More detailed information on the Nexcord Plus [**GitHub WIKI**](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html).
 
 </p>
 <p align="center">

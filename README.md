@@ -5,7 +5,7 @@
 > By using this tool, you accept full responsibility.
 
 > __Nexcord Plus__ is the __premium version__ of Nexcord, available for __€3.99 per month__.  
-> It unlocks __advanced features__, __extended customization options__, and __exclusive functionality__. Our __developer team__ actively delivers __updates__ and __bug fixes__ to ensure __continuous improvement__. __Premium members__ also receive a __special Discord role__, showing their status and standing out as part of the __core community__. More detailed information on the Nexcord Plus [**GitHub WIKI**](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html).
+> It unlocks __advanced features__, __extended customization options__, and __exclusive functionality__. Our __developer team__ actively delivers __updates__ and __bug fixes__ to ensure __continuous improvement__. __Premium members__ also receive a __special Discord role__, showing their status and standing out as part of the __core community__. More detailed information on the Nexcord Plus [**GitHub WIKI**](https://github.com/DaNexoo/NexcordPlus/wiki/Get-Started).
 
 
 
@@ -34,9 +34,9 @@ Tap "NexCordPlus.exe" in Nexcord-Plus folder.
 Now, enter your license key and you’re all set!
 ```
 
-> **Note:** To obtain a license key, feel free to
+> **Note:** To obtain a license key, feel free to         
 > join our Discord server and purchase one for
-> just €3.99 per month. For more information, please refer to our GitHub WIKI.
+> just €3.99 per month. For more information, please refer to our [**Github WIKI**](https://github.com/DaNexoo/NexcordPlus/wiki/Get-Started).
 
 </p>
 <p align="center">

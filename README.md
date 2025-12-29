@@ -25,22 +25,12 @@
 >
 > This warning is entirely harmless and only appears because the app is not signed.  
 > Code signing would cost us [**upwards of 300€/year**](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html).
-#### Source Code Version (More complicated but less buggy)
+#### 
 ```sh-session
-Download Nexcord.zip
+Download Nexcord-Plus.zip
 Extract File
-Tap "Install.bat" in Nexcord folder
-Launch nexcord.py and you should be good ;)
-
-NOTE: Make sure you have Python 3.9+ and Added to Path.
-```
-
-#### Compiled Version (Easier but more buggy)
-```sh-session
-Download: https://github.com/DaNexoo/NexCord/releases
-Extract File
-Download the latest release (Nexcord.zip) and Extract The Executable
-Launch Program and Enjoy!
+Tap "NexCordPlus.exe" in Nexcord-Plus folder.
+Now, enter your license key and you’re all set!
 ```
 
 </p>

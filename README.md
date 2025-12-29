@@ -11,7 +11,8 @@
 
 ![image](https://files.catbox.moe/p0v5us.png)
 > **Note:** Python is **not required anymore!**
-> The `Nexcord-Plus.zip` already includes a ready-to-use `.exe`, so you can just extract and run it without installing Python.
+> The `Nexcord-Plus.zip` already includes a ready-to-use `.exe`, so you
+> can just extract and run it without installing Python.
 
 ### Settings:
 > - **Windows 10 / 11**

@@ -9,7 +9,7 @@
 
 
 
-![image](https://files.catbox.moe/eymu9x.png)
+![image](https://files.catbox.moe/p0v5us.png)
 > **Note:** Python is **not required** if you use the compiled version.  
 > The `Nexcord.zip` already includes a ready-to-use `.exe`, so you can just extract and run it without installing Python.
 

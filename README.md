@@ -26,13 +26,17 @@
 >
 > This warning is entirely harmless and only appears because the app is not signed.  
 > Code signing would cost us [**upwards of 300€/year**](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html).
-#### 
+
 ```sh-session
 Download Nexcord-Plus.zip
 Extract File
 Tap "NexCordPlus.exe" in Nexcord-Plus folder.
 Now, enter your license key and you’re all set!
 ```
+
+> **Note:** To obtain a license key, feel free to
+> join our Discord server and purchase one for
+> just €3.99 per month. For more information, please refer to our GitHub WIKI.
 
 </p>
 <p align="center">
